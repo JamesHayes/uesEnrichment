@@ -5,7 +5,7 @@
 - Updated 2015/04/06
 
 ## ues (Uncovering Enrichment through Simulation) Algorithm Development
-The UES (Uncovering Enrichment through Simulation) algorithm was written to help interpret results from genome-wide association studies (GWAS) using publicly available datasets. Our manuscript is currently under review and is available on the [bioRxvi](http://biorxiv.org) preprint server. The published version of the algorithm can be found at the [Klein lab website](http://research.mssm.edu/kleinlab/ues/).
+The UES (Uncovering Enrichment through Simulation) algorithm was written to help interpret results from genome-wide association studies (GWAS) using publicly available datasets. Our manuscript is currently under review and is available on the [bioRxvi](http://biorxiv.org/content/early/2015/04/07/017657) preprint server. The published version of the algorithm can be found at the [Klein lab website](http://research.mssm.edu/kleinlab/ues/).
 
 ## Executing the algorithm
 UES is comprised of scripts written in bash (3.2.53(1)-release) and PERL  (v5.18.2) scripts. It relies on the following programs:
