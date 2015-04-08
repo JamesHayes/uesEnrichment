@@ -14,7 +14,7 @@ UES is comprised of scripts written in bash (3.2.53(1)-release) and PERL  (v5.18
     • bedtools (v2.20.1)
 These programs need to be installed and added to your path in order for UES to operate properly.
 
-UES uses pre-computed SNP that is included in the download for this package.  These file contain the following data: positional data, alleles, MAF, number of LD partners, and distance to TSS.  There is also a separate set of files containing the LD data for all the SNPs. All of these files are compressed, but they are still a large amount of data. 
+UES uses pre-computed SNP that is included in the download for this package.  These file contain the following data: positional data, alleles, MAF, number of LD partners, and distance to TSS.  There is also a separate set of files containing the LD data for all the SNPs. All of these files are compressed, but they are still a large amount of data. NOTE: These files are too large to be hosted on GitHub. They are included in the package hosted on our website.
 
 The most recent version of the UES pipeline can be downloaded: from http://research.mssm.edu/kleinlab/software/ues
 
